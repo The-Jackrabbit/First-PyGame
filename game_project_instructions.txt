@@ -1,0 +1,31 @@
+#Connor Bottcher and Luke Masters (lsm5fm)
+
+Hello! Welcome to our game, we hope you enjoy it!
+
+We have two levels in this game: \
+1. Getting to the Krusty Krab \
+2. Getting to the customer's house. \
+
+In the first level, the object of the game is to get to the Krusty Krab without being hurt by the enemies/obstacles in the way. So \
+the controls in the first function are the arrow keys or the 'wasd' keys depending on the option you choose in the title screen, the\
+space bar is jumping and holding the 'c' key allows you to draw a circle around yourself, making you invincible, but you cannot move\
+(this function is only possible after getting the stick).  You  have three chunks of health for this level, so if you are hurt three\
+times, Spongebob will cry and you will have to start over.  If you make it to the Krusty Krab, a speech bubble will appear over you \
+and if you press the escape key, then you will be taken to the next level.
+
+In the second level, the object of the game is to reach the customer's house with some of the pizza.  So the controls would be space\
+bar to jump, and the down arrow key (or the 's' key if you toggled that option in the title screen) to fast fall.  In this game you \
+want to jump over the rocks and onto the platforms because every time you hit an obstacle, you lose a slice of pizza (you have 8) \
+and if you lose all your pizza then the game will stop and you will have to start it up again.
+
+In terms of meeting the requirements of the game project, I hope that you would see that we have met these requirements specified. \
+We have user input (the functions referred to above), graphics (pictures, background, the animations as well as the character in \
+both games), and a game start (with the title screen) and an end (game quits if you lose all your health or if you get to the Krusty\
+Krab or the customer's house).  We also have animation through\using ticks to toggle between different images, an enemy in both \
+levels (the jelly fish and sea bears in the first and the rocks in the second)collectibles in the first level with the stick, the \
+spatula and the secret formula, it has a scrolling level in the first level that moves with you as you move, a health meter in both \
+levels, and music in the background and sound effects when you collect a collectible.  In all we need 4 out of the 8 optional \
+features along with the required features, and with these two games we have met all the required features along with 6 out of the 8 \
+optional features.
+
+I hope you have as much fun testing (playing) it as we had making it!
